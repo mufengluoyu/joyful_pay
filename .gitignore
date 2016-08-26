@@ -1,0 +1,12 @@
+
+.settings/
+*.classpath
+*.log
+.metadata/
+build/
+build/**/*.class
+
+# Package Files #
+*.war
+*.ear
+*.class
